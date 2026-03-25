@@ -1,4 +1,4 @@
-//Find missing no
+**Missing Number**
 
 import java.util.Arrays;
 
@@ -26,7 +26,7 @@ class Solution {
     }
 }
 
-Time complexity =O(nlogn) +O(n)
+Time complexity **=O(nlogn) +O(n)**
 
                 sorting + checking loop  
                 
@@ -36,6 +36,7 @@ Spcae complexity=O(1)
 
 
 //Optimal appraoch 
+**int no=sum-actual;**
 
 <img width="1911" height="820" alt="image" src="https://github.com/user-attachments/assets/98e969d0-6aa0-4e3d-963c-2985959ff4e4" />
 
